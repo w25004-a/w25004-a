@@ -1,23 +1,24 @@
-はじめまして‼
-カティワダ．アルパンと申します。<br>
-WEBプログラミングを勉強している学生です。<br>
-
-スキル<br>
-。Java<br>
-。CompTIA　Tech+<br>
+<h1>はじめまして‼👋<h1>
+<h2>カティワダ．アルパンと申します。:<br>
+💻WEBプログラミングを勉強している学生です。<br><h2>
+<br>
+<h1>📖勉強している<br><h1>
+<h2>。Java<br>
+。Next.js<br>
+。CompTIA Tech+<br>
 。SQL<br>
 。html/CSS<br>
-。Git/GitHub<br>
-
-現在の目標<br>
-。実用的なWebアプリを作る<br>
+。Git/GitHub<br><h2>
+<br>
+<h1>現在の目標<br><h1>
+<h2>。実用的なWebアプリを作る<br>
 。プログラミングスキルを向上させる<br>
-。IT業界で働く
-
-資格<br>
-。Oracle Java Bronze SE<br>
+。IT業界で働く<br><h2>
+<br>
+<h1>資格<br><h1>
+<h2>。Oracle Java Bronze SE<br>
 。CompTIA Tech+<br>
-。TOEIC
+。TOEIC<h2>
 
 
 
