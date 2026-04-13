@@ -19,7 +19,8 @@
 <h1>資格<br><h1>
 <h2>。Oracle Java Bronze SE<br>
 。CompTIA Tech+<br>
-。TOEIC<h2>
+。TOEIC<br>
+。JLPT N3<br><h2>
 
 
 
