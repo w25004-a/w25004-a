@@ -1,4 +1,26 @@
-## Hi there 👋
+はじめまして‼
+カティワダ．アルパンと申します。
+WEBプログラミングを勉強している学生です。<br>
+
+スキル<br>
+。Java<br>
+。CompTIA　Tech+<br>
+。SQL<br>
+。html/CSS<br>
+。Git/GitHub<br>
+
+現在の目標<br>
+。実用的なWebアプリを作る<br>
+。プログラミングスキルを向上させる<br>
+。IT業界で働く
+
+資格<br>
+。Oracle Java Bronze SE<br>
+。CompTIA Tech+<br>
+。TOEIC
+
+
+
 
 <!--
 **w25004-a/w25004-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
