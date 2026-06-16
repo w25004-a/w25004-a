@@ -1,26 +1,34 @@
 <h1>はじめまして‼👋<h1>
-<h2>カティワダ．アルパンと申します。:<br>
+<P><h2></P>カティワダ．アルパンと申します。<br>
 💻WEBプログラミングを勉強している学生です。
-  ネパール出身です。<br><h2>
+  ネパール出身です。<br></h2></P>
 <br>
-<h1>📖勉強している<h1>
-<h2>。Java<br>
+
+  
+<h1>###TECH_ARSENAL###<h1>
+  <h2>
+。Java<br>
 。Next.js<br>
 。CompTIA Tech+<br>
 。SQL<br>
 。html/CSS<br>
-。Git/GitHub<br><h2>
+。Git/GitHub<br>
 <br>
+
+  
 <h1>現在の目標<br><h1>
-<h2>。実用的なWebアプリを作る<br>
+  <h2>
+。実用的なWebアプリを作る<br>
 。プログラミングスキルを向上させる<br>
-。IT業界で働く<br><h2>
+。IT業界で働く<br>
 <br>
+  <BR>
 <h1>資格<br><h1>
-<h2>。Oracle Java Bronze SE<br>
+  <h2>
+。Oracle Java Bronze SE<br>
 。CompTIA Tech+<br>
 。TOEIC<br>
-。JLPT N3<br><h2>
+。JLPT N3<br>
 
 
 
